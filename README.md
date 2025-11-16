@@ -53,7 +53,7 @@
 
 ### 📫 How to reach me  
 📧 **amitpandeyyy01@gmail.com**  
-🐦 **Twitter:** [@AmitPan45387816](https://twitter.com/AmitPan45387816)
+🖤 **X:** [@AmitPan45387816](https://x.com/AmitPan45387816)
 
 ---
 
