@@ -53,13 +53,15 @@
 
 ### 📫 How to reach me  
 
-<a href="mailto:amitpandeyyy01@gmail.com">
-  <img src="https://img.shields.io/badge/Email-amitpandeyyy01@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<p>
+  <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="20" />
+  <strong>Email</strong> – <a href="mailto:amitpandeyyy01@gmail.com">amitpandeyyy01@gmail.com</a>
+</p>
 
-<a href="https://x.com/AmitPan45387816" target="_blank">
-  <img src="https://img.shields.io/badge/X-@AmitPan45387816-black?style=for-the-badge&logo=x&logoColor=white" />
-</a>
+<p>
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/x.png" width="20" />
+  <strong>X</strong> – <a href="https://x.com/AmitPan45387816">@AmitPan45387816</a>
+</p>
 
 ---
 
