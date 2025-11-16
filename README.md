@@ -52,8 +52,14 @@
 ---
 
 ### 📫 How to reach me  
-📧 **amitpandeyyy01@gmail.com**  
-🖤 **X:** [@AmitPan45387816](https://x.com/AmitPan45387816)
+
+<a href="mailto:amitpandeyyy01@gmail.com">
+  <img src="https://img.shields.io/badge/Email-amitpandeyyy01@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://x.com/AmitPan45387816" target="_blank">
+  <img src="https://img.shields.io/badge/X-@AmitPan45387816-black?style=for-the-badge&logo=x&logoColor=white" />
+</a>
 
 ---
 
