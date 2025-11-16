@@ -10,7 +10,6 @@
 
 <br/>
 
-<!-- WORKING NEON LOOP (FIXED) -->
 <p align="center">
 <svg width="420" height="120" viewBox="0 0 420 120" xmlns="http://www.w3.org/2000/svg">
   <defs>
@@ -53,7 +52,8 @@
 ---
 
 ### 📫 How to reach me  
-📧 **amitpandeyyy01@gmail.com**
+📧 **amitpandeyyy01@gmail.com**  
+🐦 **Twitter:** [@AmitPan45387816](https://twitter.com/AmitPan45387816)
 
 ---
 
@@ -61,4 +61,4 @@
 - 🌍 Based in **India**  
 - 📚 Constantly learning new technologies  
 - 🤝 Open to collaborating on **open-source projects**  
-- 🧠 Focused on building real-world tech skills  
+- 🧠 Focused on building real-world tech skills
