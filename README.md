@@ -55,12 +55,12 @@
 
 <p>
   <img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="20" />
-  <strong>Email</strong> – <a href="mailto:amitpandeyyy01@gmail.com">amitpandeyyy01@gmail.com</a>
+  <a href="mailto:amitpandeyyy01@gmail.com">amitpandeyyy01@gmail.com</a>
 </p>
 
 <p>
   <img src="https://img.icons8.com/ios-filled/50/ffffff/x.png" width="20" />
-  <strong>X</strong> – <a href="https://x.com/AmitPan45387816">@AmitPan45387816</a>
+  <a href="https://x.com/AmitPan45387816">@AmitPan45387816</a>
 </p>
 
 ---
