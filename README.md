@@ -60,7 +60,7 @@
 
 <p>
   <img src="https://img.icons8.com/ios-filled/50/ffffff/x.png" width="20" />
-  <a href="https://x.com/AmitPan45387816">@AmitPan45387816</a>
+  <a href="https://x.com/amit__2344">@amit__2344</a>
 </p>
 
 ---
